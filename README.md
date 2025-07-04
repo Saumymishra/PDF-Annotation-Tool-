@@ -1,2 +1,43 @@
-# PDF-Annotation-Tool-
-A modern, user-friendly web application to annotate PDFs directly in the browser with powerful tools like highlighting, commenting, and collaboration features. Designed for seamless PDF reading and editing experiences with a sleek UI, dark mode support, and smooth animations.
+# PDF Annotation Tool
+
+A React-based PDF annotation application that enables users to highlight, comment, and collaborate on PDF documents effortlessly.
+
+## Features
+
+- **Smart Annotations:** Highlight, add comments, and draw directly on PDFs with intuitive tools.
+- **Real-time Collaboration:** Share documents and collaborate instantly with your team.
+- **Dark Mode:** Toggle between light and dark themes with smooth transitions.
+- **Smooth Animations:** Engaging UI with motion effects using Framer Motion.
+- **Responsive Design:** Built with Tailwind CSS for a clean, mobile-friendly interface.
+- **File Upload:** Easily upload PDFs to start annotating.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Framer Motion (animations)
+- react-simple-typewriter (typing effect)
+- react-router-dom (routing)
+- lucide-react (icons)
+
+## Setup and Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/pdf-annotation-tool.git
+   cd pdf-annotation-tool
+
+2. Install dependencies:
+      
+   ```bash 
+      npm install
+
+3. Start the development server:
+   ```bash
+      npm run dev
+
+4. Open your browser at:
+     http://localhost:3000
+
+
